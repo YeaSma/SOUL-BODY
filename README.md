@@ -30,7 +30,7 @@ Oyuncu, platformlar üzerinde hayatta kalmaya çalışırken devasa portallar il
 
 ## ▶️ Oynanış Videosu
 
-[https://youtu.be/pnuEffFnzuQ?si=KSMqTKYe-uea5SLV](https://youtu.be/CcdmYDDoaE4](https://youtu.be/CcdmYDDoaE4)
+[Youtube Linki](https://youtu.be/CcdmYDDoaE4](https://youtu.be/CcdmYDDoaE4)
 
 ## 📜 Credits
 
