@@ -10,8 +10,8 @@ Oyuncu, platformlar üzerinde hayatta kalmaya çalışırken devasa portallar il
 
 ## 📸 Ekran Görüntüleri
 
-![ekran1](Proje/BG/start-bg.png)
-![ekran2](Proje/BG/final-bg.png)
+![ekran1](soul-body/BG/start-bg.png)
+![ekran2](soul-body/BG/final-bg.png)
 
 ## 🎮 Nasıl Oynanır?
 
